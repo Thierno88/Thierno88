@@ -16,4 +16,4 @@ CSS3 - Básico <br />
 
 📩Contatos <br />
 email: thierno888@gmail.com <br />
-Linkedin: linkedin.com/in/thierno-dia-256374207 <br />
+Linkedin: https://www.linkedin.com/in/thierno-dia-256374207/ <br />
