@@ -1,18 +1,19 @@
-Olá! 👋
-Meu nome é Thierno Alexander Dia, sou brasileiro e estou dando meu start na carerira de tecnologia 
+Olá! 👋 <br />
+Meu nome é Thierno Alexander Dia, sou Estudante e Amante da Área de Tecnologia <br />
 
-Formação:
-:mortar_board:.
-Cursando Ciência da Computação pela PUC-Rio e Sistemas de Informação pela UFF (U
+:mortar_board: Formação: <br />
+Cursando Ciência da Computação pela PUC-Rio  <br />
+Cursando Sistemas de Informação pela UFF <br />
 
-Habilidades :computer:
-Python - Forte
-C - Básico
-Ciência de Dados - Básico 
-HTML 5 - Básico
-CSS3 - Básico
+:computer: Habilidades:
+
+Python - Forte  <br />
+C - Básico  <br />
+Ciência de Dados - Básico  <br />
+HTML 5 - Básico <br />
+CSS3 - Básico <br />
 
 
-Contato 📩
-email: thierno888@gmail.com
-Linkedin: ****
+📩Contatos <br />
+email: thierno888@gmail.com <br />
+Linkedin: linkedin.com/in/thierno-dia-256374207 <br />
