@@ -1,7 +1,8 @@
 Olá! 👋
-Meu nome é Thierno Alexander Dia, sou brasileiro e estou dando meu start na carerira de tecnologia por agora 
+Meu nome é Thierno Alexander Dia, sou brasileiro e estou dando meu start na carerira de tecnologia 
 
-Formação :mortar_board:.
+Formação:
+:mortar_board:.
 Cursando Ciência da Computação pela PUC-Rio e Sistemas de Informação pela UFF (U
 
 Habilidades :computer:
@@ -14,3 +15,4 @@ CSS3 - Básico
 
 Contato 📩
 email: thierno888@gmail.com
+Linkedin: ****
