@@ -1,17 +1,26 @@
 Olá! 👋 <br />
 Meu nome é Thierno Alexander Dia, sou Estudante e Amante da Área de Tecnologia <br />
 
+Hello! 👋 <br />
+My name is  Thierno Alexander Dia, and I'm a lover and student of Computer Science <br />
+
 :mortar_board: Formação: <br />
 Cursando Ciência da Computação pela PUC-Rio  <br />
 Cursando Sistemas de Informação pela UFF <br />
 
-:computer: Habilidades:
+:mortar_board: Graduation: <br />
+Cursing Computer Science in PUC-Rio  <br />
+Cursing Information Systems in UFF <br />
 
-Python - Forte  <br />
-C - Básico  <br />
-Ciência de Dados - Básico  <br />
-HTML 5 - Básico <br />
-CSS3 - Básico <br />
+:computer: Habilities:
+
+Python - Strong  <br />
+C - Medium  <br />
+Java - Basic <br />
+Data Science - Strong <br />
+Machine Learning - Medium <br />
+HTML 5 - Basic <br />
+CSS3 - Basic <br />
 
 
 📩Contatos <br />
