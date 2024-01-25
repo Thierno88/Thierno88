@@ -1,26 +1,38 @@
 Hello! 👋 <br />
-My name is  Thierno Dia, I'm brazilian and I'm a student of Computer Science <br />
+<br />
+My name is  Thierno Dia, I'm brazilian and I'm a student of Computer Science at PUC-Rio University<br />
+##
+
+:computer: Habilities:
+
+<div style = "display: inline_block> <br>
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align = "center" height ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href = "https://github.com/Thierno88"></a>
+  <img height="180cm", src = "https://github-readme-stats.vercel.app/api?username=Thierno88&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img height="180cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thierno88&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+</div>
+
+##
 
 :mortar_board: Graduation: <br />
 Cursing Computer Science in PUC-Rio  <br />
 Cursing Information Systems in UFF <br />
 
-:computer: Habilities:
+##
 
-Python - Strong  <br />
-C - Medium  <br />
-Java - Basic <br />
-Data Science - Strong <br />
-Machine Learning - Medium <br />
-HTML 5 - Basic <br />
-CSS3 - Basic <br />
+📩Contact: <br />
 
 <div>
-  <a href = "https://github.com/Thierno88"></a>
-  <img height="180cm", src = "https://github-readme-stats.vercel.app/api?username=Thierno88)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href= "https://www.linkedin.com/in/thierno-dia-256374207/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href= "https://www.instagram.com/thierno_888/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
-
-
-📩Contatos <br />
-email: thierno888@gmail.com <br />
-Linkedin: https://www.linkedin.com/in/thierno-dia-256374207/ <br />
