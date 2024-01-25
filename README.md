@@ -2,7 +2,7 @@ Olá! 👋 <br />
 Meu nome é Thierno Alexander Dia, sou Estudante e Amante da Área de Tecnologia <br />
 
 Hello! 👋 <br />
-My name is  Thierno Alexander Dia, and I'm a lover and student of Computer Science <br />
+My name is  Thierno Alexander Dia, and I'm a student of Computer Science <br />
 
 :mortar_board: Formação: <br />
 Cursando Ciência da Computação pela PUC-Rio  <br />
