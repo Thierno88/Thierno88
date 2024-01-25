@@ -1,12 +1,5 @@
-Olá! 👋 <br />
-Meu nome é Thierno Alexander Dia, sou Estudante e Amante da Área de Tecnologia <br />
-
 Hello! 👋 <br />
-My name is  Thierno Alexander Dia, and I'm a student of Computer Science <br />
-
-:mortar_board: Formação: <br />
-Cursando Ciência da Computação pela PUC-Rio  <br />
-Cursando Sistemas de Informação pela UFF <br />
+My name is  Thierno Dia, I'm brazilian and I'm a student of Computer Science <br />
 
 :mortar_board: Graduation: <br />
 Cursing Computer Science in PUC-Rio  <br />
@@ -21,6 +14,11 @@ Data Science - Strong <br />
 Machine Learning - Medium <br />
 HTML 5 - Basic <br />
 CSS3 - Basic <br />
+
+<div>
+  <a href = "https://github.com/Thierno88"></a>
+  <img height="180cm", src = "https://github-readme-stats.vercel.app/api?username=Thierno88)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 
 
 📩Contatos <br />
