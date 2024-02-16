@@ -1,6 +1,6 @@
 Hello! 👋 <br />
 <br />
-My name is  Thierno Dia, I'm brazilian and I'm a student of Computer Science at PUC-Rio University<br />
+My name is Thierno Dia, I'm brazilian and I'm a Computer Science student at PUC-Rio University<br />
 ##
 
 :computer: Habilities:
