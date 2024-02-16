@@ -31,6 +31,7 @@ Cursing Information Systems in UFF <br />
 ##
 
 📩Contact: <br />
+Email: thierno888@gmail.com
 
 <div>
   <a href= "https://www.linkedin.com/in/thierno-dia-256374207/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
