@@ -1,6 +1,6 @@
 Hello! 👋 <br />
 <br />
-I'm Thierno Dia, I'm Brazilian, and I'm currently pursuing a degree in Computer Science at PUC-Rio University. I have a keen interest in the fields of artificial intelligence, data science, and software engineering. I am continuously seeking to expand my knowledge and skills in these areas, and I'm eager to contribute to projects involving these innovative technologies. Check my projects and my habilities bellow.<br />
+I'm Thierno Dia, I'm Brazilian, and I'm currently pursuing a degree in Computer Science at PUC-Rio University. I have a keen interest in the fields of artificial intelligence, quantitative finance, data science, and software engineering. I am continuously seeking to expand my knowledge and skills in these areas, and I'm eager to contribute to projects involving these innovative technologies. Check my projects and my habilities bellow.<br />
 ##
 
 :computer: Habilities:
